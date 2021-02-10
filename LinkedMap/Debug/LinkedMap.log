@@ -1,0 +1,7 @@
+﻿  Source.cpp
+f:\projectsc++\linkedmap\linkedmap\source.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+f:\projectsc++\linkedmap\linkedmap\source.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+f:\projectsc++\linkedmap\linkedmap\source.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+f:\projectsc++\linkedmap\linkedmap\source.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+f:\projectsc++\linkedmap\linkedmap\source.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+f:\projectsc++\linkedmap\linkedmap\source.cpp(43): error C4700: использована неинициализированная локальная переменная "put"
